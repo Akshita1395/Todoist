@@ -46,6 +46,6 @@ During this project, I used AI tools as a pair-programming assistant to:
 - Ensure the layout works properly on mobile (390px) and desktop (1440px) screens.
 - Debug development issues and clean up the codebase.
 
-I personally reviewed the code, tested the website locally in the browser, verified the mobile layout, tested the task checkbox interaction, and made all final design choices. I did not write every line of code from scratch by hand, nor did AI build the project without guidance. 
+I reviewed the generated code, tested the website locally in the browser, checked the mobile layout, tested the task checkbox interaction, and reviewed the final design before deployment. 
 
 My goal was to use modern AI assistance responsibly to deliver a clean, responsive, and well-structured project that I can understand, explain, and defend in a fresher interview.
